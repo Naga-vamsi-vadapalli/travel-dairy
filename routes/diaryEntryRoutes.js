@@ -9,4 +9,3 @@ router.put('/:entryId', DiaryEntryController.updateEntry);
 router.delete('/:entryId', DiaryEntryController.deleteEntry);
 
 module.exports = router;
-ś

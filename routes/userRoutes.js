@@ -9,4 +9,3 @@ router.put('/:userId', UserController.updateUserProfile);
 router.delete('/:userId', UserController.deleteUser);
 
 module.exports = router;
-ś
